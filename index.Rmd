@@ -142,6 +142,16 @@ include_graphics("img/chairs.png")
 
 ### 5. Methods
 
+---
+
+class: inverse, center, middle
+
+# Standup
+
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
+include_graphics("img/standup.png")
+```
+
 
 
 
