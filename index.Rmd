@@ -87,6 +87,11 @@ include_graphics("img/scrum.png")
 include_graphics("img/chairs.png")
 ```
 
+<div class="caption">
+Inspiration drawn from Stanford d.school's <a href="https://dschool.stanford.edu/resources/the-5-chair-challenge">The 5 Chair Challenge</a>
+<br><br>
+</div>
+
 ### 1. Problems
 
 ---
